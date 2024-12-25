@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zuarxanna
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently use Spring Framework
-- 💻 I’m working at Vonix ID, visit https://vonix.id
-- 📫 Let to know each other more closely, visit https://zuarxanna.herokuapp.com
+- 💻 I’m working at Samuel Kripto Indonesia, visit https://corporate.samuelkripto.com/
+- 📫 Let to know each other more closely, visit https://zuarxanna.github.io
